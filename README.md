@@ -8,7 +8,7 @@ Previously: 30+ videogames shipped. Before that: comics, photography
 ## What I work with
 
 **Backend**
-Ruby · Rails · Python · PostgreSQL · Redis · PHP
+Ruby · Rails · Python · PostgreSQL · Redis · PHP · Crystal
 
 **Frontend**
 JavaScript · TypeScript · HTML/CSS · Bun : Many others
