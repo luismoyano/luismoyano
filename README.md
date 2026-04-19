@@ -24,7 +24,7 @@ Linux · Docker · GitHub Actions · CI/CD
 
 **[shiny-json-logic-php](https://github.com/luismoyano/shiny-json-logic-php)** Much needed `shiny_json_logic` port to PHP to serve better PHP apps in need of JSON Logic
 
-**[shiny-json-logic-crystal](https://github.com/luismoyano/shiny-json-logic-crystal)** Crystal implementation of JSON Logic — fast, compliant, part of the Shiny family.
+**[shiny-json-logic-crystal](https://github.com/luismoyano/shiny-json-logic-crystal)** Crystal implementation of JSON Logic, of course it's super fast!
 
 I also contribute to the [json-logic](https://github.com/json-logic) initiative, working on further improving the specification and covering blank spots.
 
